@@ -3,5 +3,6 @@ public class Main {
         int a = 0;
         int b = 1;
         System.out.println(a + b);
+        return ;
     }
 }
